@@ -1,2 +1,0 @@
-# coursera
-Repositorio ejercicios Coursera
